@@ -19,7 +19,7 @@
 > [!tip]+ Método Alternativo: Por Factorización (Diferencia de Cuadrados)
 > Las ecuaciones puras también se pueden resolver factorizando como una **diferencia de cuadrados**: $a^2 - b^2 = (a - b)(a + b)$.
 > Por ejemplo, para $x^2 - 64 = 0$:
-> $$x^2 - 8^2 = 0 \implies (x - 8)(x + 8) = 0$$
+> $x^2 - 8^2 = 0 \implies (x - 8)(x + 8) = 0$
 > Igualando a cero cada factor: $x - 8 = 0 \Rightarrow x = 8$ y $x + 8 = 0 \Rightarrow x = -8$.
 
 > [!EXAMPLE]- Actividad 1. Ejercicios de Ecuaciones Puras, pág. 133 y 134.
